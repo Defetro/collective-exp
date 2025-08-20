@@ -1,0 +1,10 @@
+ipykernel
+jupyter
+matplotlib
+nbconvert
+nbformat
+numpy
+pandas
+scikit-learn
+torch
+tqdm
