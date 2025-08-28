@@ -4,6 +4,5 @@ __pycache__/
 slurm-*.out
 slurm-*.err
 data/
-*.pt
 *.pth
 *.bin

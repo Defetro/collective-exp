@@ -1,0 +1,22 @@
+{
+  "seed": 42,
+  "config": {
+    "data_path": "C:\\Users\\david\\OneDrive\\Desktop\\Collective Exp\\ml-1m",
+    "max_len": 50,
+    "hidden_units": 256,
+    "num_heads": 2,
+    "num_layers": 2,
+    "dropout_rate": 0.1,
+    "lr": 0.001,
+    "batch_size": 128,
+    "num_epochs": 17,
+    "num_workers": 2,
+    "mask_prob": 0.15,
+    "seed": 42
+  },
+  "versions": {
+    "python": "3.10.18 | packaged by Anaconda, Inc. | (main, Jun  5 2025, 13:08:55) [MSC v.1929 64 bit (AMD64)]",
+    "torch": "2.5.1",
+    "numpy": "1.26.4"
+  }
+}
